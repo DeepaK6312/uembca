@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.social{height: 200px;
+ background-color: darkorange;
+	color: white;
+}
+.navbar1{height: 40px;
+ background-color:darkred;
+	color: white;
+	font-size: bold;
+}
+.banner1{height: 500px;
+background-image:url(www.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.contant{color: darkblue;
+text-justify: auto;
+line-height: 40px;	
+}
